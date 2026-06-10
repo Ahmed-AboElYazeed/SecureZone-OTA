@@ -1,0 +1,6 @@
+[submodule "OTA_linux_part"]
+	path = OTA_linux_part
+	url = git@github.com:Ahmed-AboElYazeed/OTA_Project.git
+[submodule "OTA_qnx_part"]
+	path = OTA_qnx_part
+	url = git@github.com:Ahmed-AboElYazeed/OTA_Project_QNXpart.git
